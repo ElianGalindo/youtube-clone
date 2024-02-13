@@ -1,0 +1,64 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+}
+.navegacion{
+    width: 300px;
+    margin-left: -98px;
+    padding: 10px;
+}
+#iconN{
+    font-size: 27px;
+}
+#iconNa{
+    font-size: 20px;
+}
+.iconosNav{
+    margin-top:20px;
+}
+.videos{
+    padding:10px;
+}
+.cabecera{
+    display: flex;
+}
+.search{
+    border-radius: 20px;
+    width: 590px;
+    height: 38px;
+    margin-left: 115px;
+    border-color: rgb(205, 201, 201);
+}
+#iconSearch{
+    position: absolute;
+    left: 670px;
+    margin-top: 4px;
+    font-size: 20px;
+}
+.micro{
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background-color: rgb(245, 239, 239);
+    display: flex;
+    margin-left: 20px;
+}
+#iconNaMic{
+    margin-left: 8px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.notifications{
+    margin-left: 400px;
+    display: flex;
+
+}
+
+#ytVideos{
+    background-color: #686868;
+    color: black;
+}
